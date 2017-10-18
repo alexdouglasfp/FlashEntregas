@@ -1,4 +1,4 @@
-package beans;
+package br.com.flash_entregas.negocios.beans;
 
 
 public class Pessoa implements Comparable<Pessoa>{
